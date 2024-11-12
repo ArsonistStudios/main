@@ -13,6 +13,7 @@ label story:
     window auto
 
     show monika 1a at t21
+    m "testing.."
     m "..."
     m "it's already morning..."
     m "i think i'll sleep a little more..."
